@@ -139,7 +139,7 @@
   top: 0;
   width: 50px;
   height: 80px;
-  background: #eceaf2;
+  background: #e2e2e2;
   border-radius: 50px 50px 0 0;
   transform: rotate(-45deg);
   transform-origin: 0 100%;
@@ -227,7 +227,7 @@
   }
 }
 body {
-  background-color: #c2d4f9;
+  background-color: #021742;
 }
 
 .envlope-wrapper {
